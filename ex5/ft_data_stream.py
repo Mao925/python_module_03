@@ -6,11 +6,10 @@
 #    By: mhashimo <mhashimo@student.42tokyo.jp>     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/05/19 21:17:34 by mhashimo          #+#    #+#              #
-#    Updated: 2026/05/19 23:29:13 by mhashimo         ###   ########.fr        #
+#    Updated: 2026/05/21 21:17:09 by mhashimo         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-import typing
 import random
 
 def gen_event():
